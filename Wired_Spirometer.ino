@@ -1,4 +1,4 @@
-
+ 
 const int analogInPin = A1;
 int inputVolt=0; 
 int value=0;
